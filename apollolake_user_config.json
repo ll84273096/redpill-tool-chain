@@ -1,11 +1,15 @@
 {
-    "extra_cmdline": {
-        "pid": "0x0001",
-        "vid": "0x46f4",
-        "sn": "1234XXX123",
-        "mac1": "XXYYXXYYXXYY"
+  "extra_cmdline": {
+    "vid": "0x46f4",
+    "pid": "0x0001",
+    "sn": "1350PDN001692",
+    "mac1": "001132C7065E"
     },
-    "synoinfo": {},
-    "ramdisk_copy": {},
-    "extensions": []
+  "synoinfo": {
+    "maxdisks" : "16",
+    "esataportcfg": "0x8001",
+    "internalportcfg": "0x7FFE"	
+  },
+  "ramdisk_copy": {},
+  "extensions": []
 }
